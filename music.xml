@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<music>
+    <song id="1">
+        <songTitle>Blinding Lights</songTitle>
+        <artist>The Weeknd</artist>
+        <albums>
+            <album>After Hours</album>
+            <album>Starboy</album>
+            <album>Beauty Behind the Madness</album>
+        </albums>
+        <debutYear>2020</debutYear>
+    </song>
+    <song id="2">
+        <songTitle>Levitating</songTitle>
+        <artist>Dua Lipa</artist>
+        <albums>
+            <album>Future Nostalgia</album>
+            <album>Dua Lipa</album>
+            <album>Club Future Nostalgia</album>
+        </albums>
+        <debutYear>2020</debutYear>
+    </song>
+    <song id="3">
+        <songTitle>Peaches</songTitle>
+        <artist>Justin Bieber</artist>
+        <albums>
+            <album>Justice</album>
+            <album>Purpose</album>
+            <album>Changes</album>
+        </albums>
+        <debutYear>2021</debutYear>
+    </song>
+    <song id="4">
+        <songTitle>drivers license</songTitle>
+        <artist>Olivia Rodrigo</artist>
+        <albums>
+            <album>SOUR</album>
+            <album>GUTS</album>
+        </albums>
+        <debutYear>2021</debutYear>
+    </song>
+    <song id="5">
+        <songTitle>Good 4 U</songTitle>
+        <artist>Olivia Rodrigo</artist>
+        <albums>
+            <album>SOUR</album>
+            <album>GUTS</album>
+        </albums>
+        <debutYear>2021</debutYear>
+    </song>
+</music>
